@@ -1,5 +1,5 @@
 {
-  "name": "mcp-framework",
+  "name": "@sekora/mcp-framework",
   "version": "0.2.15",
   "description": "Framework for building Model Context Protocol (MCP) servers in Typescript",
   "type": "module",
